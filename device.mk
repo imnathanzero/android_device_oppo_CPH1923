@@ -28,7 +28,7 @@ PRODUCT_SOONG_NAMESPACES += $(DEVICE_PATH)
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
     $(DEVICE_PATH)/overlay \
-    $(DEVICE_PATH)/overlay-fuse
+    $(DEVICE_PATH)/overlay-lineage
 
 # VNDK
 PRODUCT_TARGET_VNDK_VERSION := 29

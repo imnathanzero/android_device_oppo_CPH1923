@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_CPH1923.mk
+    $(LOCAL_DIR)/rr_CPH1923.mk
 
 COMMON_LUNCH_CHOICES := \
-        lineage_CPH1923-eng \
-        lineage_CPH1923-user \
-        lineage_CPH1923-userdebug
+        rr_CPH1923-eng \
+        rr_CPH1923-user \
+        rr_CPH1923-userdebug
